@@ -151,7 +151,7 @@ addDecimal(event) {
     const operatorButtons = functions.operator.map(el => <button id={el.id} className='btn btn-block btn-info' value={el.op} type='button' onClick={this.addOperator}>{el.sign}</button>);
 
     return (
-      <div id='container' className='container-fluid'>
+      <div id='container'>
         <div id='frame'>
           <div id='screen'>
             {this.state.isAnswer ? <Output output={this.state.answer} /> : <Expression expression={this.state.output} />}
