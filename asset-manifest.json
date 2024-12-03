@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/https//:Musa-Tshabalala.github.io/my-calculator/static/css/main.a8821a4b.css",
+    "main.js": "/https//:Musa-Tshabalala.github.io/my-calculator/static/js/main.266894fc.js",
+    "static/js/453.3abdd064.chunk.js": "/https//:Musa-Tshabalala.github.io/my-calculator/static/js/453.3abdd064.chunk.js",
+    "index.html": "/https//:Musa-Tshabalala.github.io/my-calculator/index.html",
+    "main.a8821a4b.css.map": "/https//:Musa-Tshabalala.github.io/my-calculator/static/css/main.a8821a4b.css.map",
+    "main.266894fc.js.map": "/https//:Musa-Tshabalala.github.io/my-calculator/static/js/main.266894fc.js.map",
+    "453.3abdd064.chunk.js.map": "/https//:Musa-Tshabalala.github.io/my-calculator/static/js/453.3abdd064.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a8821a4b.css",
+    "static/js/main.266894fc.js"
+  ]
+}
